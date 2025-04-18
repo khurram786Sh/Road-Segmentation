@@ -35,9 +35,3 @@ This Digital Image Processing (DIP) project focuses on segmenting road areas fro
 - Gulraiz Nazir (NIM-BSEE-2021-01)
 - Khurram Shehzad (NIM-BSEE-2021-20)
 
-## 📅 Date
-January 12, 2025
-
-## 🧑‍🏫 Instructor
-- Zulaikha Kiran  
-- Lab Engineer: Junaid Ashraf
